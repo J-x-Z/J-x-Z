@@ -6,12 +6,12 @@
 <h3 align="center">个人简历，让霍金站起来 :desktop_computer:</h3>
 
 <!-- My GIF -->
-<img src="https://github.com/jiaxiZHANG/jiaxiZHANG/blob/main/6.gif" alt="GIF" width=100% hight="auto">
+<img src="https://github.com/J-x-Z/J-x-Z/blob/main/6.gif" alt="GIF" width=100% hight="auto">
 
 
 
 <!-- Counter -->
-<img src="https://komarev.com/ghpvc/?username=jiaxiZHANG" alt="Counter" align="left">
+<img src="https://komarev.com/ghpvc/?username=J-x-Z" alt="Counter" align="left">
 
 <br>
 
@@ -21,9 +21,9 @@
 ### 📈 GitHub Activity Graph:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiaxiZHANG/jiaxiZHANG/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jiaxiZHANG/jiaxiZHANG/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jiaxiZHANG/jiaxiZHANG/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-x-Z/J-x-Z/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J-x-Z/J-x-Z/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/J-x-Z/J-x-Z/output/github-contribution-grid-snake.svg">
 </picture>
 
 
@@ -32,16 +32,16 @@
 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jiaxiZHANG&theme=tokyonight&no-frame=true&margin-w=4" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=J-x-Z&theme=tokyonight&no-frame=true&margin-w=4" alt="trophy" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiaxiZHANG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaxiZHANG&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=J-x-Z&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-x-Z&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiaxiZHANG&theme=tokyonight&hide_border=true&background=00000000" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J-x-Z&theme=tokyonight&hide_border=true&background=00000000" alt="streak graph" />
 </div>
 
 

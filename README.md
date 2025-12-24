@@ -16,14 +16,6 @@
 <br>
 
 <!-- My contects -->
-### :satellite: ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕞𝕖:
-
-<div id="badges" align="center">
-
-  <a href="https://www.instagram.com/fallen_star10000?igsh=MWJua3AzNWVvYXNqYg==">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  
-</div>
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
@@ -38,24 +30,20 @@
 
 ### :fire: 𝕄𝕪 𝕊𝕥𝕒𝕥𝕤:
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jiaxiZHANG&theme=tokyonight&no-frame=true&margin-w=4" alt="trophy" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jiaxiZHANG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaxiZHANG&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jiaxiZHANG&theme=tokyonight&no-frame=true&margin-w=4" alt="trophy" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiaxiZHANG&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiaxiZHANG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaxiZHANG&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiaxiZHANG&theme=tokyonight&hide_border=true&background=00000000" alt="streak graph" />
+</div>
+
 
 
 

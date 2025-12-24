@@ -1,4 +1,7 @@
 <!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=J-x-Z&fontSize=70" width="100%" />
+</div>
 <h1 align="center">(っ◔◡◔)っ <a href="https://s.team/p/gffn-pkcd/NJRJDRRT" target="_blank">NOTHING HERE</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
@@ -17,14 +20,7 @@
 
 <!-- My contects -->
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-x-Z/J-x-Z/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J-x-Z/J-x-Z/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/J-x-Z/J-x-Z/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 
@@ -38,8 +34,15 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-x-Z/J-x-Z/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J-x-Z/J-x-Z/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/J-x-Z/J-x-Z/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/J-x-Z/J-x-Z/output/github-contribution-grid-snake.svg" alt="snake" />
+  <br/>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=J-x-Z&theme=tokyonight&no-frame=true&margin-w=4" alt="trophy" />
+</div>
+
+<div align="center">
+  <h3>🌇 3D Contribution City</h3>
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="3d-contrib" />
 </div>
 
 

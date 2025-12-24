@@ -38,11 +38,24 @@
 
 ### :fire: 𝕄𝕪 𝕊𝕥𝕒𝕥𝕤:
 
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiaxiZHANG&theme=tokyonight" alt="Profile card" width="100%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiaxiZHANG&theme=tokyonight" alt="Statistics of languages ​​in commits" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiaxiZHANG&theme=tokyonight" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jiaxiZHANG&theme=tokyonight" alt="Profile statistics" width="49.7%" height="auto"></a>
-<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jiaxiZHANG&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jiaxiZHANG&theme=tokyonight&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jiaxiZHANG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiaxiZHANG&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiaxiZHANG&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+</p>
 
 
 

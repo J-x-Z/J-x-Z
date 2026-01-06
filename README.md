@@ -468,15 +468,7 @@ Vim Exiting        ██░░░░░░░░░░░░░░░░░░ 
 
 </div>
 
----
 
-## 🎵 Spotify Playing
-
-<div align="center">
-
-[![Spotify](https://novatorem-j-x-z.vercel.app/api/spotify)](https://open.spotify.com/user/J-x-Z)
-
-</div>
 
 ---
 
@@ -497,9 +489,6 @@ Vim Exiting        ██░░░░░░░░░░░░░░░░░░ 
 
 If you like what I do, consider supporting me!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=black)](https://buymeacoffee.com/J-x-Z)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=black)](https://github.com/sponsors/J-x-Z)
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=black)](https://paypal.me/J-x-Z)
 
 </div>
 

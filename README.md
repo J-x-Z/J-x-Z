@@ -377,31 +377,6 @@ WM: yabai (macOS) / i3wm (Linux)
 
 ---
 
-## 🎮 Fun Zone
-
-<details>
-<summary>🎲 <b>Click for Easter Eggs</b></summary>
-<br>
-
-### 🤖 My Coding Philosophy
-
-```ascii
-    ╔═══════════════════════════════════════════════╗
-    ║                                               ║
-    ║   while (alive) {                             ║
-    ║       eat();                                  ║
-    ║       sleep();                                ║
-    ║       code();                                 ║
-    ║       debug();  // This takes 80% of the time ║
-    ║       coffee++; // Essential fuel             ║
-    ║       repeat();                               ║
-    ║   }                                           ║
-    ║                                               ║
-    ║   // TODO: Add more hours to the day         ║
-    ║                                               ║
-    ╚═══════════════════════════════════════════════╝
-```
-
 ### 🎯 Developer Stats (Unofficial)
 
 ```javascript
@@ -454,17 +429,6 @@ Vim Exiting        ██░░░░░░░░░░░░░░░░░░ 
 [![GitHub](https://img.shields.io/badge/GitHub-J--x--Z-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/J-x-Z)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:39978180+J-x-Z@users.noreply.github.com)
 
-### 💼 Professional
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/J-x-Z)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=black)](https://stackoverflow.com/users/J-x-Z)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Blog-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=black)](https://dev.to/J-x-Z)
-
-### 🎨 Social
-
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=black)](https://twitter.com/J_x_Z)
-[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=black)](https://discord.gg/J-x-Z)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black)](https://youtube.com/@J-x-Z)
 
 </div>
 

@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *"
+    - cron: "0 18 * * *"  # 每天UTC 18:00运行（北京时间凌晨2点）
   workflow_dispatch:
 
 jobs:
@@ -11,14 +11,42 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # 获取完整历史
+      
+      # 🆕 备用自动commit（如果snake.yml没有触发）
+      - name: Backup daily commit
+        run: |
+          # 配置git用户信息
+          git config user.name "J-x-Z"
+          git config user.email "39978180+J-x-Z@users.noreply.github.com"
+          
+          # 检查今天是否已经有commit
+          TODAY=$(date -u +%Y-%m-%d)
+          COMMITS_TODAY=$(git log --since="$TODAY 00:00:00" --until="$TODAY 23:59:59" --author="J-x-Z" --oneline | wc -l)
+          
+          if [ "$COMMITS_TODAY" -eq 0 ]; then
+            echo "📝 Creating backup commit..."
+            mkdir -p logs
+            echo "- 🏙️ 3D profile generated at $(date '+%Y-%m-%d %H:%M:%S UTC')" >> logs/3d-activity.md
+            git add logs/3d-activity.md
+            git commit -m "chore: 3D profile update" || echo "Nothing to commit"
+            git push origin main || echo "Push failed"
+          else
+            echo "✅ Already have commits today"
+          fi
+      
+      # 原有的3D图生成步骤
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      
+      # 修改commit配置，使用你的用户信息
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "J-x-Z"
+          git config user.email "39978180+J-x-Z@users.noreply.github.com"
           git add -A .
-          git commit -m "generated"
+          git commit -m "chore: update 3D profile" || echo "No changes to commit"
           git push

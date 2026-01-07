@@ -23,7 +23,13 @@
 </p>
 
 ---
+<img src="https://count.getloli.com/get/@J-x-Z?theme=rule34" alt="Visitor Count" />
 
+
+
+
+
+---
 ## 🎮 System Status
 
 ```rust
@@ -455,6 +461,23 @@ If you like what I do, consider supporting me!
 
 
 </div>
+
+---
+
+## 🎮 Steam Gaming
+
+<div align="center">
+
+<!-- Steam游戏历史卡片 -->
+![Steam](https://steam-gaming-history-card.vercel.app/api?steamid=76561199088117522&theme=dark)
+
+
+
+<!-- 或者最近游戏封面（取消注释使用） -->
+![Steam Recently Played](https://steam-recently-played-readme.vercel.app/api?id=76561199088117522&width=550)
+
+</div>
+
 
 ---
 

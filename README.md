@@ -1,12 +1,11 @@
 <div align="center">
 
-<!-- 超炫动态头图 -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,12,24&height=300&section=header&text=J-x-Z&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient&stroke=00FF41&strokeWidth=2" />
 
-# I am beginner.
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=I%20am%20beginner.&fontSize=60&fontColor=58A6FF&animation=fadeIn" />
 
-学无止境。
-
+### 学无止境。
 
 ## 🐍 Contribution Snake
 

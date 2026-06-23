@@ -1,11 +1,21 @@
 <div align="center">
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,12,24&height=140&section=header&animation=twinkling" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=2200&pause=900&color=00F7F7&center=true&vCenter=true&width=720&height=90&lines=%24+whoami;I+am+beginner." alt="Typing SVG" />
+
+<h3>学无止境。</h3>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,12,24&height=300&section=header&text=J-x-Z&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient&stroke=00FF41&strokeWidth=2" />
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=I%20am%20beginner.&fontSize=60&fontColor=58A6FF&animation=fadeIn" />
 
-### 学无止境。
+
+
+
+
+
 
 ## 🐍 Contribution Snake
 

@@ -1,11 +1,11 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,12,24&height=140&section=header&animation=twinkling" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=1200&color=00F7F7&center=true&vCenter=true&repeat=true&width=900&lines=%24+whoami;I+am+beginner." />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=36&duration=2200&pause=900&color=00F7F7&center=true&vCenter=true&width=720&height=90&lines=%24+whoami;I+am+beginner." alt="Typing SVG" />
+<br>
 
-<h3>学无止境。</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=24&duration=2500&pause=999999&color=58A6FF&center=true&vCenter=true&width=400&lines=%E5%AD%A6%E6%97%A0%E6%AD%A2%E5%A2%83%E3%80%82" />
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,12,24&height=300&section=header&text=J-x-Z&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient&stroke=00FF41&strokeWidth=2" />

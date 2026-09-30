@@ -37,9 +37,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=J-x-Z&repo=waypipe-darwin&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7F7&icon_color=00F7F7&text_color=c9d1d9" />
 </a>
 
-<a href="https://github.com/J-x-Z/AetherOS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=J-x-Z&repo=AetherOS&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7F7&icon_color=00F7F7&text_color=c9d1d9" />
-</a>
 
 </div>
 

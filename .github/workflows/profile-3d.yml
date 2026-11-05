@@ -1,8 +1,6 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:
-    - cron: "0 18 * * *"
   workflow_dispatch:
 
 
@@ -12,6 +10,8 @@ concurrency:
 
 jobs:
   build:
+    # Disabled at the repository owner’s request to stop automated contribution commits.
+    if: ${{ false }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
